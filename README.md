@@ -33,7 +33,7 @@
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/SpotNow.git
+   git clone https://github.com/O-Farias/SpotNow.git
    cd SpotNow
    ```
 
